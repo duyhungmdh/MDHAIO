@@ -51,27 +51,10 @@ featureGrid:
   weight: 20
   template: feature grid
 
-  title: Why choose Lotus Docs?
-  subtitle: Lotus Docs is a highly configurable Hugo documentation theme. Yet, with the default configuration you can deploy and publish your documentation site in a matter of minutes. Check out some core features below.
-
   items:
     - title: Secure by default
       icon: lock
       description: Lotus Docs' default configuration scores A+ on Mozilla Observatory. You can update the default Security Headers to suit your requirements.
-      ctaLink:
-        text: learn more
-        url: /docs/
-
-    - title: Optional Features
-      icon: settings
-      description: Many Lotus Docs features are configurable via optional parameters. Require DocSearch for your site? Then enable it via a single setting.
-      ctaLink:
-        text: learn more
-        url: /docs/
-
-    - title: Dark Mode
-      icon: dark_mode
-      description: Prefer not to be blasted by the sun while reading? Switch to a low-light UI with the click of a button. Modify colour variables to match your branding.
       ctaLink:
         text: learn more
         url: /docs/
