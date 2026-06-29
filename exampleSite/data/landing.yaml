@@ -51,6 +51,17 @@ featureGrid:
   weight: 20
   template: feature grid
 
+  title: Why choose Lotus Docs?
+  subtitle: Lotus Docs is a highly configurable Hugo documentation theme. Yet, with the default configuration you can deploy and publish your documentation site in a matter of minutes. Check out some core features below.
+
+  items:
+    - title: Fast
+      icon: speed
+      description: 4 x 100's score on Google Lighthouse by default. Lotus Docs removes unused CSS, prefetches asset links, and lazy loads content images.
+      ctaLink:
+        text: learn more
+        url: /docs/
+
 # Image compare
 imageCompare:
   enable: true
