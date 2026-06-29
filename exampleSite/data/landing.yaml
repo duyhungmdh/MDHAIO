@@ -44,13 +44,13 @@ hero:
     url: "https://github.com/colinwilson/lotusdocs"
 
   info: "**Open Source** M.D.H Licensed."
-  
+
 # Feature Grid
 featureGrid:
   enable: false
   weight: 20
   template: feature grid
-  
+
 # Image compare
 imageCompare:
   enable: true
