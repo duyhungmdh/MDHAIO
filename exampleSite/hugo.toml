@@ -61,7 +61,7 @@ defaultContentLanguage = 'en'
     [params.docs] # Parameters for the /docs 'template'
         title           = "MDH TWEAK"           # default html title for documentation pages/sections
 
-        # pathName        = "VIP"                            # path name for documentation site | default "VIP"
+        # pathName        = "docs"                            # path name for documentation site | default "docs"
 
         # themeColor      = "cyan"                            # (optional) - Set theme accent colour. Options include: blue (default), green, red, yellow, emerald, cardinal, magenta, cyan
 
@@ -149,8 +149,8 @@ defaultContentLanguage = 'en'
 
 [menu]
 [[menu.primary]]
-    name  = "VIP"
-    url = "VIP/"
+    name  = "V.I.P"
+    url = "docs/"
     identifier = "VIP"
     weight = 10
 
