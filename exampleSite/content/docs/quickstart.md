@@ -10,7 +10,7 @@ description: "A MDH guide to creating new content in Lotus Docs"
 publishdate: "2023-05-03T22:37:22+01:00"
 tags: ["MacOS"]
 ---
-
+![1](https://i.ibb.co/Nn93WVRd/test.jpg)
 ## Requirements
 
 - **git**
