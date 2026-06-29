@@ -48,7 +48,7 @@ hero:
 # Image compare
 imageCompare:
   enable: true
-  weight: 30
+  weight: 20
   template: image compare
 
   title: Tuỳ chỉnh giao diện M.D.H-TWEAK
