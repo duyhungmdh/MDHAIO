@@ -59,6 +59,9 @@ imageCompare:
   weight: 30
   template: image compare
 
+  title: Tuỳ chỉnh giao diện M.D.H-TWEAK
+  subtitle: Lotus Docs is a highly configurable Hugo documentation theme. Yet, with the default configuration you can deploy and publish your documentat
+  
   items:
     - title: Dark Mode
       config: {
