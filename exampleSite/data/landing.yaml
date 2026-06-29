@@ -43,7 +43,7 @@ hero:
     btnText: "In Development"
     url: "https://github.com/colinwilson/lotusdocs"
 
-  info: "**Open Source** MIT Licensed."
+  info: "**Open Source** M.D.H Licensed."
 
 # Feature Grid
 featureGrid:
@@ -125,7 +125,7 @@ imageCompare:
   weight: 30
   template: image compare
 
-  title: Customise The Lotus Docs Appearance
+  title: Tuỳ chỉnh giao diện M.D.H-TWEAK
   subtitle: Much of Lotus Docs' appearance can be customised. Dark mode is optional (enabled by default) and you can choose a Google font that suites you via the config parameters.
 
   items:
