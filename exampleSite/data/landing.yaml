@@ -45,14 +45,20 @@ hero:
 
   info: "**Open Source** M.D.H Licensed."
 
+# Feature Grid
+featureGrid:
+  enable: true
+  weight: 20
+  template: feature grid
+
+  title: Tuỳ chỉnh giao diện M.D.H-TWEAK
+  subtitle: Lotus Docs is a highly configurable Hugo documentation theme. Yet, with the default configuration you can deploy and publish your documentation site in a matter of minutes. Check out some core features below.
+        
 # Image compare
 imageCompare:
   enable: true
-  weight: 20
+  weight: 30
   template: image compare
-
-  title: Tuỳ chỉnh giao diện M.D.H-TWEAK
-  subtitle: Much of Lotus Docs' appearance can be customised. Dark mode is optional (enabled by default) and you can choose a Google font that suites you via the config parameters.
 
   items:
     - title: Dark Mode
