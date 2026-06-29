@@ -16,7 +16,7 @@ tags: ["Beginners"]
 - **git**
 - **Go ≥ v1.19**
 - **Hugo ≥ v0.100.0** (Extended Version)
-![1](https://res.cloudinary.com/dvdk55qex/image/upload/v1782740478/test_txhjj2.jpg)
+![1](https://ibb.co/Wpk3BxC4)
 ![2](https://res.cloudinary.com/lotuslabs/image/upload/v1690992310/Lotus%20Docs/images/lotus_docs_new_site_and_content_module_setup_oiuyex.png)
 ## Install Hugo
 
