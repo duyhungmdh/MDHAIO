@@ -7,19 +7,14 @@ enableGitInfo = true # N.B. .GitInfo does not currently function with git submod
 defaultContentLanguage = 'en'
 [languages]
   [languages.en]
-    title = "Lotus Docs Example Site"
+    title = "MDH TWEAK"
     languageName = "English"
     weight = 10
-  [languages.fr]
-    title = "Lotus Docs Exemple de Site"
-    languageName = "Français"
-    contentDir = "content/fr"
+  [languages.vi]
+    title = "Trang cá nhân MDH"
+    languageName = "Tiếng Việt"
+    contentDir = "content/vi"
     weight = 20
-  [languages.de]
-    title = "Lotus Docs Beispiel Site"
-    languageName = "Deutsch"
-    contentDir = "content/de"
-    weight = 30
 
 [module]
   [module.hugoVersion]
