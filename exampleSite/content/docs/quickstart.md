@@ -10,7 +10,7 @@ description: "A quickstart guide to creating new content in Lotus Docs"
 publishdate: "2023-05-03T22:37:22+01:00"
 tags: ["Beginners"]
 ---
-
+https://github.com/duyhungmdh/MDHAIO/blob/release/data/test.jpg
 ## Requirements
 
 - **git**
