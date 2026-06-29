@@ -57,7 +57,6 @@ featureGrid:
 # Image compare
 imageCompare:
   enable: true
-  weight: 30
   template: image compare
 
   items:
