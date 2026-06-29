@@ -45,20 +45,6 @@ hero:
 
   info: "**Open Source** M.D.H Licensed."
 
-# Feature Grid
-featureGrid:
-  enable: true
-  weight: 20
-  template: feature grid
-
-  items:
-    - title: Secure by default
-      icon: lock
-      description: Lotus Docs' default configuration scores A+ on Mozilla Observatory. You can update the default Security Headers to suit your requirements.
-      ctaLink:
-        text: learn more
-        url: /docs/
-
 # Image compare
 imageCompare:
   enable: true
