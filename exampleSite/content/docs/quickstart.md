@@ -13,7 +13,7 @@ tags: ["MacOS"]
 ![1](https://i.ibb.co/Nn93WVRd/test.jpg)
 ![IMG-3007.jpg](https://i.postimg.cc/7PWrBj9V/IMG-3007.jpg)
 ## Requirements
-
+![IMG-3007.jpg](https://postimg.cc/JtZF069D)
 - **git**
 - **Go ≥ v1.19**
 - **Hugo ≥ v0.100.0** (Extended Version)
