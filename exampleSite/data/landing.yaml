@@ -45,6 +45,7 @@ hero:
 
   info: "**Open Source** M.D.H Licensed."
 
+
 # Image compare
 imageCompare:
   enable: true
