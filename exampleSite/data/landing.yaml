@@ -48,7 +48,7 @@ hero:
 # Feature Grid
 featureGrid:
   enable: true
-  weight: 0
+  weight: 1
   template: feature grid
   
 # Image compare
