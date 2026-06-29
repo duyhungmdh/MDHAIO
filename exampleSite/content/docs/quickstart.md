@@ -226,6 +226,8 @@ Navigate to `localhost:1313/docs` and you should see a card link to the **Exampl
 
 ![New Lotus Docs Site - Example Content](https://res.cloudinary.com/lotuslabs/image/upload/v1690992310/Lotus%20Docs/images/lotus_docs_new_site_and_content_module_setup_oiuyex.png)
 
+data/test.jpg
+
 ## Ordering Content
 
 Lotus Docs uses a simple weighting method for ordering content and creating menus.
