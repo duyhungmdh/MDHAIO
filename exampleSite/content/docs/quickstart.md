@@ -10,13 +10,14 @@ description: "A quickstart guide to creating new content in Lotus Docs"
 publishdate: "2023-05-03T22:37:22+01:00"
 tags: ["Beginners"]
 ---
-![1](/static/test.jpg)
+
 ## Requirements
 
 - **git**
 - **Go ≥ v1.19**
 - **Hugo ≥ v0.100.0** (Extended Version)
-
+![1](/static/test.jpg)
+![2](https://res.cloudinary.com/lotuslabs/image/upload/v1690992310/Lotus%20Docs/images/lotus_docs_new_site_and_content_module_setup_oiuyex.png)
 ## Install Hugo
 
 Install the [Hugo CLI](https://github.com/gohugoio/hugo/releases/latest), using the specific instructions for your operating system below:
