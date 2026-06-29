@@ -11,7 +11,7 @@ publishdate: "2023-05-03T22:37:22+01:00"
 tags: ["MacOS"]
 ---
 ![1](https://i.ibb.co/Nn93WVRd/test.jpg)
-[![IMG-3007.jpg](https://i.postimg.cc/7PWrBj9V/IMG-3007.jpg)](https://postimg.cc/JtZF069D)
+![IMG-3007.jpg](https://i.postimg.cc/7PWrBj9V/IMG-3007.jpg)
 ## Requirements
 
 - **git**
