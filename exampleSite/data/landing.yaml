@@ -118,36 +118,6 @@ featureGrid:
         text: learn more
         url: /docs/
 
-imageText:
-  enable: true
-  weight: 25
-  template: image text
-
-  title: Built with performance and accessability in mind. Top scores on Google's Lighthouse
-  subtitle: A default Lotus Docs deployment is capable of achieving 4 x 100 scores on Google's Lighthouse performance analysis tool.
-
-  list:
-    - text: Blazing fast page loads
-      icon: speed
-
-    - text: Sensible default SEO friendly settings
-      icon: area_chart
-
-    - text: Designed to be accessible
-      icon: accessibility
-
-  image:
-    path: "images/templates/single"
-    filename: "google_lighthouse_circle_v1.0.svg"
-    alt: "Google LightHouse 100% Illustration" # Optional but recommended
-
-  imgOrder:
-    desktop: 2
-    mobile: 1
-
-  ctaButton:
-    text: Learn more
-    url: "/docs/"
 
 # Image compare
 imageCompare:
