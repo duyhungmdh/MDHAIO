@@ -10,11 +10,6 @@ defaultContentLanguage = 'en'
     title = "MDH TWEAK"
     languageName = "English"
     weight = 10
-  [languages.vi]
-    title = "Trang cá nhân MDH"
-    languageName = "Tiếng Việt"
-    contentDir = "content/vi"
-    weight = 20
 
 [module]
   [module.hugoVersion]
