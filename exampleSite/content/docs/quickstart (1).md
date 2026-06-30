@@ -21,7 +21,7 @@ tags: ["Beginners"]
 
 Install the [Hugo CLI](https://github.com/gohugoio/hugo/releases/latest), using the specific instructions for your operating system below:
 
-{{< tabs tabTotal="4">}}
+{{< tabs tabTotal="3">}}
 {{% tab tabName="Linux" %}}
 
 Your Linux distro’s package manager may include Hugo. If this is the case, install it directly using your distro’s package manager – for instance, in Ubuntu, run the following command. This will install the extended edition of Hugo:
@@ -46,15 +46,6 @@ If you use the package manager [Chocolatey](https://chocolatey.org/), run the `c
 
 ```shell
 choco install hugo --confirm
-```
-
-{{% /tab %}}
-{{% tab tabName="Windows (Scoop)" %}}
-
-If you use the package manager [Scoop](https://scoop.sh/), run the `scoop install` command in your terminal to install Hugo:
-
-```shell
-scoop install hugo
 ```
 
 {{% /tab %}}
