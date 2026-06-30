@@ -10,15 +10,13 @@ description: "A MDH guide to creating new content in Lotus Docs"
 publishdate: "2023-05-03T22:37:22+01:00"
 tags: ["MacOS"]
 ---
-![1](https://i.ibb.co/Nn93WVRd/test.jpg)
-![IMG-3007.jpg](https://i.postimg.cc/7PWrBj9V/IMG-3007.jpg)
+
 ## Requirements
-![IMG-3007.jpg](https://postimg.cc/JtZF069D)
+
 - **git**
 - **Go ≥ v1.19**
 - **Hugo ≥ v0.100.0** (Extended Version)
-![1](https://i.ibb.co/Nn93WVRd/test.jpg)
-![2](https://res.cloudinary.com/lotuslabs/image/upload/v1690992310/Lotus%20Docs/images/lotus_docs_new_site_and_content_module_setup_oiuyex.png)
+
 ## Install Hugo
 
 Install the [Hugo CLI](https://github.com/gohugoio/hugo/releases/latest), using the specific instructions for your operating system below:
