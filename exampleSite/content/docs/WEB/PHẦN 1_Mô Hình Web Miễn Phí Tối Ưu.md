@@ -46,7 +46,7 @@ Hãy nhìn xuống dưới cùng của bảng trắng trong ảnh. Bạn sẽ th
 
 ![tai-xuong-(1).png](https://i.postimg.cc/Bv1BDZtf/tai-xuong-(1).png)
 
-3: Bạn hãy click chuột thẳng vào chữ Get started (được in đậm và gạch chân màu đen) đó
+3. Bạn hãy click chuột thẳng vào chữ Get started (được in đậm và gạch chân màu đen) đó
 
 Ngay khi bấm vào chữ Get started, màn hình sẽ chuyển sang giao diện chuẩn của Pages. Lúc này, bạn sẽ thấy một tab có chữ Pages và nút Connect to Git (Kết nối với Git) quen thuộc hiện ra.
 
