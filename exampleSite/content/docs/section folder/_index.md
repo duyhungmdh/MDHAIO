@@ -1,5 +1,5 @@
 ---
-weight: 300
+weight: 500
 title: "MacOS"
 description: "Example of a folder at the root of the content tree (under `/docs`)"
 icon: "folder"
