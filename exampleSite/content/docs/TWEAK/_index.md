@@ -1,7 +1,7 @@
 ---
 weight: 500
 title: "TWEAK"
-description:
+description: "Tổng hợp Tweak hay sưu tầm"
 icon: "code"
 draft: false
 ---
