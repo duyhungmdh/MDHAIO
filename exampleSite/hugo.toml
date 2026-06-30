@@ -61,7 +61,7 @@ defaultContentLanguage = 'en'
     [params.docs] # Parameters for the /docs 'template'
         title           = "MDH TWEAK"           # default html title for documentation pages/sections
 
-        # pathName        = "docs"                            # path name for documentation site | default "docs"
+        # pathName        = "VIP"                            # path name for documentation site | default "VIP"
 
         # themeColor      = "cyan"                            # (optional) - Set theme accent colour. Options include: blue (default), green, red, yellow, emerald, cardinal, magenta, cyan
 
@@ -118,8 +118,8 @@ defaultContentLanguage = 'en'
         # indexName = "" # Index Name to perform search on (or set env variable HUGO_PARAM_DOCSEARCH_indexName)
 
     [params.analytics] # Parameters for Analytics (Google, Plausible)
-        # plausibleURL    = "/docs/s" # (or set via env variable HUGO_PARAM_ANALYTICS_plausibleURL)
-        # plausibleAPI    = "/docs/s" # optional - (or set via env variable HUGO_PARAM_ANALYTICS_plausibleAPI)
+        # plausibleURL    = "/vip/s" # (or set via env variable HUGO_PARAM_ANALYTICS_plausibleURL)
+        # plausibleAPI    = "/vip/s" # optional - (or set via env variable HUGO_PARAM_ANALYTICS_plausibleAPI)
         # plausibleDomain = ""      # (or set via env variable HUGO_PARAM_ANALYTICS_plausibleDomain)
 
     # [params.feedback]
@@ -150,7 +150,7 @@ defaultContentLanguage = 'en'
 [menu]
 [[menu.primary]]
     name  = "V.I.P"
-    url = "docs/"
+    url = "vip/"
     identifier = "VIP"
     weight = 10
 
