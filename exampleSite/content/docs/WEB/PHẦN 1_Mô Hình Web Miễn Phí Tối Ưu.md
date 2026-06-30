@@ -7,11 +7,12 @@ description:
 ---
 ```shell
 - Nơi lưu trữ mã nguồn và bài viết (Miễn phí): Sử dụng GitHub.
-- Công cụ tạo hình hài web (Miễn phí): Sử dụng Hugo hoặc Astro (tôi khuyên dùng Hugo vì nó cực kỳ nhẹ, nhanh và có vô số giao diện blog đẹp).
+- Công cụ tạo hình hài web (Miễn phí): Sử dụng Hugo hoặc Astro (tôi khuyên dùng Hugo vì nó cực kỳ nhẹ,
+nhanh và có vô số giao diện blog đẹp).
 - Nơi phát sóng web lên mạng (Miễn phí): Sử dụng Cloudflare Pages (Nơi cấp cho bạn đuôi .pages.dev).
 ```
 
-# `Hướng Dẫn Từng Bước (Dành Cho Người Mới)`
+# Hướng Dẫn Từng Bước (Dành Cho Người Mới)
 
 ## Bước 1: Chuẩn bị tài khoản nền tảng Bạn cần tạo tài khoản ở hai trang web sau (chỉ cần dùng email đăng ký bình thường):
 
