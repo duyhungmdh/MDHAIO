@@ -1,7 +1,7 @@
 ---
-weight: 500
+weight: 400
 title: "TWEAK"
-description: "Example of a folder at the root of the content tree (under `/docs`)"
+description:
 icon: "code"
 draft: false
 ---
