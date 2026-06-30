@@ -13,8 +13,6 @@ B1: Up ảnh lên web [Postimages](https://postimages.org/) sau khi hoàn tất 
 
 ![tai-xuong-(9).png](https://i.postimg.cc/9Q5vMB2n/tai-xuong-(9).png)
 
-Copy link dạng "[ ! [chung-nhan-hoa-phat-2-(2).png ]( https://i.postimg.cc/6qg0bcnQ/chung-nhan-hoa-phat-2-(2).png ) ](https://postimg.cc/9wPZrGx3)"
-
 B2: Cú pháp `![mô tả ảnh](link ảnh bên trên)`
 
 
@@ -43,11 +41,11 @@ Phần 4: Hiện thị ô code để COPY
 
 ![tai-xuong-(12).png](https://i.postimg.cc/L4jWW1LG/tai-xuong-(12).png)
 
-Cú pháp:
+Cú pháp: dòng đầu tiền điền ` ```shell` xuống dòng ghi nội dụng cần rồi xuống dòng kết thúc bằng 3 dấu ```
 
-```shell (xuống dòng)
+```shell
 Nội dung đoạn code cần copy
-``` (Kết thúc)
+```
 
 
 ### Phần 5: Nổi bật 1 dòng chữ 
