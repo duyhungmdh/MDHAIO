@@ -1,5 +1,5 @@
 ---
-weight: 200
+weight: 300
 title: "Example Content"
 description: "Example content"
 icon: "edit"
