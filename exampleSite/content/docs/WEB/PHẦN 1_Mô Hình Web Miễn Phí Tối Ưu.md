@@ -30,7 +30,7 @@ Lưu ý: Kho chứa chuẩn bắt buộc phải nhìn thấy một tệp tin có
 
 ## Bước 3 Chi tiết: Kết nối GitHub và Phát sóng Website
 
-1: Vào khu vực "Công xưởng" của Cloudflare
+1. Vào khu vực "Công xưởng" của Cloudflare
 
 Đăng nhập vào trang chủ Cloudflare.
 
@@ -40,7 +40,7 @@ Nhìn sang màn hình rộng bên phải, tìm và bấm vào nút màu xanh dư
 
 ![tai-xuong.png](https://i.postimg.cc/SNyd5p1J/tai-xuong.png)
 
-2: Các bước tiếp theo
+2. Các bước tiếp theo
 
 Hãy nhìn xuống dưới cùng của bảng trắng trong ảnh. Bạn sẽ thấy một dòng chữ nhỏ: `Looking to deploy Pages? Get started`.
 
@@ -50,11 +50,11 @@ Hãy nhìn xuống dưới cùng của bảng trắng trong ảnh. Bạn sẽ th
 
 Ngay khi bấm vào chữ Get started, màn hình sẽ chuyển sang giao diện chuẩn của Pages. Lúc này, bạn sẽ thấy một tab có chữ Pages và nút Connect to Git (Kết nối với Git) quen thuộc hiện ra.
 
-4.Chọn nguồn nhập dữ liệu: Tại ô đầu tiên có dòng chữ Import an existing Git repository (Nhập một kho Git có sẵn), bạn hãy bấm vào nút `Get started` màu xanh ở bên phải của ô đó.
+4. Chọn nguồn nhập dữ liệu: Tại ô đầu tiên có dòng chữ Import an existing Git repository (Nhập một kho Git có sẵn), bạn hãy bấm vào nút `Get started` màu xanh ở bên phải của ô đó.
 
 ![tai-xuong-(2).png](https://i.postimg.cc/DwSrkfry/tai-xuong-(2).png)
 
-5.Chọn kho GitHub: Màn hình tiếp theo sẽ hiện ra danh sách tài khoản GitHub của bạn. Bạn hãy tích chọn đúng kho duyhungmdh/lotusdocs và bấm nút Begin setup (Bắt đầu cài đặt).
+5. Chọn kho GitHub: Màn hình tiếp theo sẽ hiện ra danh sách tài khoản GitHub của bạn. Bạn hãy tích chọn đúng kho duyhungmdh/lotusdocs và bấm nút Begin setup (Bắt đầu cài đặt).
 
 ![tai-xuong-(4).png](https://i.postimg.cc/MZmsDYbR/tai-xuong-(4).png)
 
