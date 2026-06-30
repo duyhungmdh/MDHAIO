@@ -1,7 +1,7 @@
 ---
 weight: 200
 title: "MACOS"
-description:
+description: "Tổng hợp các thủ thuật cho MacOS"
 icon: "folder"
 draft: false
 ---
